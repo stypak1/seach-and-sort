@@ -1,6 +1,6 @@
-# JS learning
+# Seach and sort
 
-Searching and sorting in array
+Searching and sorting in array (js) 
 
 ## Authors
 
