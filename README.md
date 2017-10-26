@@ -1,6 +1,6 @@
-# Seach and sort
+# Search and sort
 
-Searching and sorting in array (js) 
+Search in and sort array on JavaScript
 
 ## Authors
 
