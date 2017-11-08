@@ -1,6 +1,6 @@
 # Search and sort
 
-Search in and sort array on JavaScript
+Search in and sort array algorithms on JavaScript
 
 - search element in array by value
 - search element by type
